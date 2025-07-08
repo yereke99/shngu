@@ -1,0 +1,22 @@
+Dynamogram Classification Report
+==================================================
+
+Training samples: 24
+Validation samples: 6
+Total epochs: 15
+Best validation accuracy: 0.00%
+
+              precision    recall  f1-score   support
+
+    Class_12       0.00      0.00      0.00       1.0
+    Class_15       0.00      0.00      0.00       1.0
+    Class_17       0.00      0.00      0.00       0.0
+    Class_24       0.00      0.00      0.00       1.0
+    Class_26       0.00      0.00      0.00       1.0
+    Class_28       0.00      0.00      0.00       0.0
+    Class_29       0.00      0.00      0.00       1.0
+    Class_30       0.00      0.00      0.00       1.0
+
+    accuracy                           0.00       6.0
+   macro avg       0.00      0.00      0.00       6.0
+weighted avg       0.00      0.00      0.00       6.0

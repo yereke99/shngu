@@ -1,0 +1,242 @@
+{
+  "1": {
+    "class_name": "Недостаточный приток жидкости",
+    "pdf_file": "data/1.pdf",
+    "extracted_images": [
+      "processed_images/class_1/class_1_page_0_rendered_5595f58b.png"
+    ],
+    "image_count": 1
+  },
+  "2": {
+    "class_name": "Недостаточный приток жидкости и повышенное трение",
+    "pdf_file": "data/2.pdf",
+    "extracted_images": [
+      "processed_images/class_2/class_2_page_0_rendered_e80b149c.png"
+    ],
+    "image_count": 1
+  },
+  "3": {
+    "class_name": "Газовое влияние",
+    "pdf_file": "data/3.pdf",
+    "extracted_images": [
+      "processed_images/class_3/class_3_page_0_rendered_4d0a9533.png"
+    ],
+    "image_count": 1
+  },
+  "4": {
+    "class_name": "Сильная вибрация",
+    "pdf_file": "data/4.pdf",
+    "extracted_images": [
+      "processed_images/class_4/class_4_page_0_rendered_059819da.png"
+    ],
+    "image_count": 1
+  },
+  "5": {
+    "class_name": "Внезапные незначительные колебания притока жидкости",
+    "pdf_file": "data/5.pdf",
+    "extracted_images": [
+      "processed_images/class_5/class_5_page_0_rendered_e6e18354.png"
+    ],
+    "image_count": 1
+  },
+  "6": {
+    "class_name": "Внезапное общее газовое влияние",
+    "pdf_file": "data/6.pdf",
+    "extracted_images": [
+      "processed_images/class_6/class_6_page_0_rendered_77fb7209.png"
+    ],
+    "image_count": 1
+  },
+  "7": {
+    "class_name": "Внезапная утечка через проходной клапан",
+    "pdf_file": "data/7.pdf",
+    "extracted_images": [
+      "processed_images/class_7/class_7_page_0_rendered_5bf8d16b.png"
+    ],
+    "image_count": 1
+  },
+  "8": {
+    "class_name": "Вытягивание плунжера из цилиндра",
+    "pdf_file": "data/8.pdf",
+    "extracted_images": [
+      "processed_images/class_8/class_8_page_0_rendered_eb3cd7e5.png"
+    ],
+    "image_count": 1
+  },
+  "9": {
+    "class_name": "Внезапный обрыв штанг",
+    "pdf_file": "data/9.pdf",
+    "extracted_images": [
+      "processed_images/class_9/class_9_page_0_rendered_519246ef.png"
+    ],
+    "image_count": 1
+  },
+  "10": {
+    "class_name": "Работа в режиме высокой производительности",
+    "pdf_file": "data/10.pdf",
+    "extracted_images": [
+      "processed_images/class_10/class_10_page_0_rendered_64da6fb6.png"
+    ],
+    "image_count": 1
+  },
+  "11": {
+    "class_name": "Критически недостаточный приток жидкости",
+    "pdf_file": "data/11.pdf",
+    "extracted_images": [
+      "processed_images/class_11/class_11_page_0_rendered_b72dfccb.png"
+    ],
+    "image_count": 1
+  },
+  "12": {
+    "class_name": "Удар плунжера о насос",
+    "pdf_file": "data/12.pdf",
+    "extracted_images": [
+      "processed_images/class_12/class_12_page_0_rendered_89d1a689.png"
+    ],
+    "image_count": 1
+  },
+  "13": {
+    "class_name": "Газовое влияние с вибрацией",
+    "pdf_file": "data/13.pdf",
+    "extracted_images": [
+      "processed_images/class_13/class_13_page_0_rendered_01f0489d.png"
+    ],
+    "image_count": 1
+  },
+  "14": {
+    "class_name": "Подозрение на отказ штангового зацепа",
+    "pdf_file": "data/14.pdf",
+    "extracted_images": [
+      "processed_images/class_14/class_14_page_0_rendered_85a3573c.png"
+    ],
+    "image_count": 1
+  },
+  "15": {
+    "class_name": "Внезапные значительные колебания притока жидкости",
+    "pdf_file": "data/15.pdf",
+    "extracted_images": [
+      "processed_images/class_15/class_15_page_0_rendered_df7e8fc1.png"
+    ],
+    "image_count": 1
+  },
+  "16": {
+    "class_name": "Внезапное сильное газовое влияние, воздушная пробка",
+    "pdf_file": "data/16.pdf",
+    "extracted_images": [
+      "processed_images/class_16/class_16_page_0_rendered_e5ae64bf.png"
+    ],
+    "image_count": 1
+  },
+  "17": {
+    "class_name": "Внезапный отказ открытия приёмного клапана",
+    "pdf_file": "data/17.pdf",
+    "extracted_images": [
+      "processed_images/class_17/class_17_page_0_rendered_fbf380a1.png"
+    ],
+    "image_count": 1
+  },
+  "18": {
+    "class_name": "Внезапная утечка в колонне НКТ",
+    "pdf_file": "data/18.pdf",
+    "extracted_images": [
+      "processed_images/class_18/class_18_page_0_rendered_25ca720b.png"
+    ],
+    "image_count": 1
+  },
+  "19": {
+    "class_name": "Попадание постороннего предмета в насос",
+    "pdf_file": "data/19.pdf",
+    "extracted_images": [
+      "processed_images/class_19/class_19_page_0_rendered_a7472462.png"
+    ],
+    "image_count": 1
+  },
+  "20": {
+    "class_name": "Естественный приток (фонтанирование)",
+    "pdf_file": "data/20.pdf",
+    "extracted_images": [
+      "processed_images/class_20/class_20_page_0_rendered_2522aa44.png"
+    ],
+    "image_count": 1
+  },
+  "21": {
+    "class_name": "Недостаточный приток жидкости с вибрацией",
+    "pdf_file": "data/21.pdf",
+    "extracted_images": [
+      "processed_images/class_21/class_21_page_0_rendered_b951a60e.png"
+    ],
+    "image_count": 1
+  },
+  "22": {
+    "class_name": "Удар плунжера и вибрация",
+    "pdf_file": "data/22.pdf",
+    "extracted_images": [
+      "processed_images/class_22/class_22_page_0_rendered_c8cfd440.png"
+    ],
+    "image_count": 1
+  },
+  "23": {
+    "class_name": "Вибрация",
+    "pdf_file": "data/23.pdf",
+    "extracted_images": [
+      "processed_images/class_23/class_23_page_0_rendered_23238ea5.png"
+    ],
+    "image_count": 1
+  },
+  "24": {
+    "class_name": "Работа под полной нагрузкой",
+    "pdf_file": "data/24.pdf",
+    "extracted_images": [
+      "processed_images/class_24/class_24_page_0_rendered_3f22da25.png"
+    ],
+    "image_count": 1
+  },
+  "25": {
+    "class_name": "Внезапное резкое снижение притока жидкости",
+    "pdf_file": "data/25.pdf",
+    "extracted_images": [
+      "processed_images/class_25/class_25_page_0_rendered_46becb65.png"
+    ],
+    "image_count": 1
+  },
+  "26": {
+    "class_name": "Внезапный отказ открытия проходного клапана",
+    "pdf_file": "data/26.pdf",
+    "extracted_images": [
+      "processed_images/class_26/class_26_page_0_rendered_d3d79fa7.png"
+    ],
+    "image_count": 1
+  },
+  "27": {
+    "class_name": "Внезапная утечка через приёмный клапан",
+    "pdf_file": "data/27.pdf",
+    "extracted_images": [
+      "processed_images/class_27/class_27_page_0_rendered_e058ec02.png"
+    ],
+    "image_count": 1
+  },
+  "28": {
+    "class_name": "Внезапное увеличение трения",
+    "pdf_file": "data/28.pdf",
+    "extracted_images": [
+      "processed_images/class_28/class_28_page_0_rendered_3f8dbd50.png"
+    ],
+    "image_count": 1
+  },
+  "29": {
+    "class_name": "Сильное газовое влияние",
+    "pdf_file": "data/29.pdf",
+    "extracted_images": [
+      "processed_images/class_29/class_29_page_0_rendered_c2ce9f44.png"
+    ],
+    "image_count": 1
+  },
+  "30": {
+    "class_name": "Утечка в насосе",
+    "pdf_file": "data/30.pdf",
+    "extracted_images": [
+      "processed_images/class_30/class_30_page_0_rendered_899f9206.png"
+    ],
+    "image_count": 1
+  }
+}
